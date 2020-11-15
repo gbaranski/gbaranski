@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gbaranski)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbaranski&exclude_repo=alarmclock-esp,aosp-calculator,calculator.gbaranski.com,gbaranski.com)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbaranski&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbaranski&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gbaranski" />

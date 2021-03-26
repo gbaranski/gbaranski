@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbaranski&count_private=true&show_icons=true&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbaranski&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,sway,ESP8266_RTOS_SDK,DefinitelyTyped,laboratory&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbaranski&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,sway,ESP8266_RTOS_SDK,DefinitelyTyped,laboratory,dotfiles&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gbaranski&layout=compact" />
 
